@@ -15,8 +15,8 @@ Key is the code group for the criminal activity, Value of the key is how often t
 This is called validated data, since it is present data.
 
 Example:
-Prediction data comes from information from a csv file that contains data from 2015-2017.
-Validated data comes from information from a csv file that contains data from 2018.
+Prediction data comes from information from a csv file that contains data from October 2015-2017.
+Validated data comes from information from a csv file that contains data from October 2018.
 We take these 2 datasets and compare them to each other to see how accurate our prediction data set is from actual validated data.
 
 Models used: Naive Bayes, K-Nearest Neighbors (KNN), Decision Tree
