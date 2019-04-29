@@ -1,5 +1,7 @@
 # Crime-Predicting-Tool
 
+Full dataset (I used) can be found here: https://www.kaggle.com/ankkur13/boston-crime-data
+
 A Python application that aggregates and gathers various information from an Excel (csv) file.
 Excel file contains code group of criminal activity, year and a SPECIFIC month.
 The tool analyzes and create a set of predictions based on data gathered; printing various information about the predicted data. 
