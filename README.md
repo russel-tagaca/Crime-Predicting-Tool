@@ -30,3 +30,14 @@ To demonstrate model robustness,
 each model is ran through a 10-fold cross validation, where scoring data is gathered for each fold.
 
 Scoring information for all models used: Precision, accuracy, recall, k-fold cross validation and error scores
+
+-----------------------------------------------------
+Run in a shell terminal window
+
+python3 projCS301.py {file_name}
+
+{file_name} - Argument 1 - CSV file used to train the model
+
+Ex: 'crime_06_2015-2017.csv' - Remove quotations
+Format to run:
+python3 projCS301.py crime_06_2015-2017.csv
